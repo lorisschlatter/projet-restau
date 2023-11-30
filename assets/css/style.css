@@ -626,35 +626,6 @@ dans les sections entrées plats desserts boissons. */
 
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* MEDIA QUERIE TABLETTE */
 
 /* Meme que pour mobile sauf un ajustement du texte et boutons d'accueil 
@@ -1278,46 +1249,6 @@ et re-centrage du text "notre chef : michel bouillon*/
     }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* MEDIA QUERIE A PARTIR DE 900px
 On y ajoute également l'ensemble de la page, elle permet de ré-ajuster les éléments individuellement sur la media querie "Mobile"
